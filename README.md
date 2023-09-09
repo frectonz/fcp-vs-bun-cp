@@ -18,7 +18,7 @@ This repo was created to test [Jarred Sumner's](https://twitter.com/jarredsumner
 
 # Sample Runs
 
-![frectonz-1](./frectonz-1.jpg)
-![frectonz-2](./frectonz-2.jpg)
-![alex-1](./alex-1.jpg)
-![yohannestz-1](./yohannestz-1.jpg)
+![frectonz-1](./runs/frectonz-1.jpg)
+![frectonz-2](./runs/frectonz-2.jpg)
+![alex-1](./runs/alex-1.jpg)
+![yohannestz-1](./runs/yohannestz-1.jpg)
