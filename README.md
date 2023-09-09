@@ -19,20 +19,25 @@ This repo was created to test [Jarred Sumner's](https://twitter.com/jarredsumner
 # Sample Runs
 
 `bun` `1.04x` faster than `fcp`
+
 ![frectonz-1](./runs/frectonz-1.jpg)
 
 ----
 `fcp` `1.19x` faster than `bun`
+
 ![frectonz-2](./runs/frectonz-2.jpg)
 
 ---
 `fcp` `1.02x` faster than `bun`
+
 ![alex-1](./runs/alex-1.jpg)
 
 ---
 `bun` `1.20x` faster than `fcp`
+
 ![alex-2](./runs/alex-2.jpg)
 
 ---
 `fcp` `1.09x` faster than `bun`
+
 ![yohannestz-1](./runs/yohannestz-1.jpg)
