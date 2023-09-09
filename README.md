@@ -41,3 +41,8 @@ This repo was created to test [Jarred Sumner's](https://twitter.com/jarredsumner
 `fcp` `1.09x` faster than `bun`
 
 ![yohannestz-1](./runs/yohannestz-1.jpg)
+
+---
+`fcp` `1.04x` faster than `bun`
+
+![dgcp3-1](./runs/dgcp3-1.jpg)
